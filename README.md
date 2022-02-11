@@ -5,7 +5,7 @@ Learn to design super scalar processors and use advanced HDLs. Design from scrat
     RV32IM  
     2-Wide 3-Issue (Could be More Later)
     Out-of-Order Execution
-    Use Chisel or SpinalHDL  
+    Use SpinalHDL  
 
 ### More Advanced Spec (probably):
     Support for Hardware Float
