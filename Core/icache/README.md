@@ -18,7 +18,7 @@
                 ==>The offset should be 0xF000_0000
             Code start from 0x0000_0000 in the system level, and start from 0x0000_1000 in the ROM
                 ==>The offset shoule be 0x0000_1000
-    partCount,
+    partCount
         The count of the cache part
         Larger would increase the hit rate with multiple branch instructions, but consumes more resources and decrease the Fmax
     partSize
